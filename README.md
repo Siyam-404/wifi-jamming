@@ -3,7 +3,7 @@ Use your own risk
 
 
 
-git clone https://github.com/BluHExH/WiFi_Jam.py.git
+git clone https://github.com/Siyam-404/wifi-jamming.git
 
 cd 
 
